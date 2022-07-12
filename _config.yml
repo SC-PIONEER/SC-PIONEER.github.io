@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+title:          SC-Pioneer	
+description:    "Personal Homepage."
+url:            https://SC-PIONEER.github.io
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Scarlett Lee
+  email:        @gmail.com
+  url:          https://SC-PIONEER.github.io
 
 # Build settings
 markdown:       kramdown
